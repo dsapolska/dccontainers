@@ -2,7 +2,8 @@
 Delphi containers library
 
 
-Containers library written for Delphi 7.
+This is containers library written for Delphi 7 as replacement for formerly used TStringList and DeCAL library.
+We have here maps and sets, both with integer and string keys, where maps can store strings, integers and objects (descendants of TObject).
 
 
 #### Library uses (and depends on):
